@@ -20,3 +20,9 @@ $ mkdir -p ~/.vim/pack/kite/start/kite
 $ mkdit clone https://github.com/kiteco/vim-plugin.git ~/.vim/pack/kite/start/kite/
 ```
 Restart Vim
+
+## download vim-plug
+```
+$ sudo yum install curl
+$ curl -fLo ~/.vim/autoload/plug.vim/ --create-dirs \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
