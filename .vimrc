@@ -46,3 +46,6 @@ Plug 'flazz/vim-colorschemes'
 Plug '/home/mpaulson/personal/vim-be-good' 
 
 call plug#end()
+
+colorscheme gruvbox                                                             
+set background=dark
