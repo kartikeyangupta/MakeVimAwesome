@@ -17,7 +17,7 @@ Kite automatically integrates with all the text editor available. To integrate i
 ## Integrate Vim and Kite
 ```
 $ mkdir -p ~/.vim/pack/kite/start/kite
-$ mkdit clone https://github.com/kiteco/vim-plugin.git ~/.vim/pack/kite/start/kite/
+$ mkdir clone https://github.com/kiteco/vim-plugin.git ~/.vim/pack/kite/start/kite/
 ```
 Restart Vim
 
@@ -29,5 +29,6 @@ $ curl -fLo ~/.vim/autoload/plug.vim/ --create-dirs https://raw.githubuserconten
 ## Install Puggins
 Run the command in .vimrc
 ```
+$ source %
 $ :PlugInstall
 ```
