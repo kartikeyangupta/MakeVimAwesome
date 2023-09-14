@@ -1,5 +1,5 @@
 # MakeVimAwesome
-Make Vim Visual Studio
+Make Vim like Visual Studio
 ## Install Vim
 ```
 $ sudo apt-get install vim
