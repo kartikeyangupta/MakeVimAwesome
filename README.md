@@ -33,5 +33,3 @@ $ source %
 $ :PlugInstall
 ```
 
-## Contribute
-Raise an issue and create a pull request on the issue.
